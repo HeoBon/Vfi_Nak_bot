@@ -1,0 +1,76 @@
+[
+  {
+    "name": "оля",
+    "price_type": "PSS"
+  },
+  {
+    "name": "д",
+    "price_type": "PM"
+  },
+  {
+    "name": "ТОВ СМС",
+    "price_type": "PL",
+    "type": "фіз",
+    "phone": ""
+  },
+  {
+    "name": "ТОВ ВВ",
+    "price_type": "PM",
+    "type": "юр",
+    "edrpou": "09908778676"
+  },
+  {
+    "name": "вая",
+    "price_type": "PM",
+    "type": "фіз",
+    "phone": "0509999999"
+  },
+  {
+    "name": "a",
+    "price_type": "PM",
+    "type": "фіз",
+    "phone": "05056655665"
+  },
+  {
+    "name": "нан",
+    "price_type": "PL",
+    "type": "фіз",
+    "phone": "900990"
+  },
+  {
+    "name": "оля",
+    "price_type": "PL",
+    "type": "фіз",
+    "phone": "0898898"
+  },
+  {
+    "name": "ф",
+    "price_type": "PL",
+    "type": "юр",
+    "edrpou": "2121212"
+  },
+  {
+    "name": "Наташа",
+    "price_type": "PSS",
+    "type": "фіз",
+    "phone": "9090967"
+  },
+  {
+    "name": "вася",
+    "price_type": "PSS",
+    "type": "фіз",
+    "phone": "56655678"
+  },
+  {
+    "name": "Валєра",
+    "price_type": "PM",
+    "type": "юр",
+    "edrpou": "132321321"
+  },
+  {
+    "name": "ярина",
+    "price_type": "PSS",
+    "type": "фіз",
+    "phone": "0629999"
+  }
+]

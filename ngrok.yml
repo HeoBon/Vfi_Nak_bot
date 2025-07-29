@@ -1,0 +1,8 @@
+version: "2"
+authtoken: 30T8d4BN9lXs4nWdK6JLKijUOZg_38Yjf8zx3YpvQ3vYYSU13
+
+tunnels:
+  gate:
+    addr: 8123
+    proto: http
+    domain: casual-moth-viable.ngrok-free.app
